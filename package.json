@@ -5,7 +5,7 @@
     "main": "src/index.tsx",
     "private": true,
     "scripts": {
-        "start": "webpack-dev-server --port 8081 --mode development --open --hot --progress",
+        "start": "webpack-dev-server --port 8082 --mode development --open --hot --progress",
         "dist": "webpack --mode production  --progress",
         "lint": "eslint './src/**/*.{ts,tsx,js}'",
         "clean": "rimraf dist",
