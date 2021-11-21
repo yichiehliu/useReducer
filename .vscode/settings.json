@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.enable": true,
+    "editor.tabSize": 2,
+    "typescript.validate.enable": true
+  }
+  
